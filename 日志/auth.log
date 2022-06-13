@@ -1,0 +1,138 @@
+Aug 24 06:40:39 ubuntu sshd[1198]: Received SIGHUP; restarting.
+Aug 24 06:40:39 ubuntu sshd[1198]: Server listening on 0.0.0.0 port 52113.
+Aug 24 06:40:39 ubuntu sshd[1198]: Server listening on :: port 52113.
+Aug 24 06:40:39 ubuntu sshd[1198]: Server listening on 0.0.0.0 port 22.
+Aug 24 06:40:39 ubuntu sshd[1198]: Server listening on :: port 22.
+Aug 24 06:40:40 ubuntu sshd[1198]: Received SIGHUP; restarting.
+Aug 24 06:40:40 ubuntu sshd[1198]: Server listening on 0.0.0.0 port 52113.
+Aug 24 06:40:40 ubuntu sshd[1198]: Server listening on :: port 52113.
+Aug 24 06:40:40 ubuntu sshd[1198]: Server listening on 0.0.0.0 port 22.
+Aug 24 06:40:40 ubuntu sshd[1198]: Server listening on :: port 22.
+Aug 24 06:41:48 ubuntu sshd[1198]: Received SIGHUP; restarting.
+Aug 24 06:41:48 ubuntu sshd[1198]: Server listening on 0.0.0.0 port 52113.
+Aug 24 06:41:48 ubuntu sshd[1198]: Server listening on :: port 52113.
+Aug 24 06:41:48 ubuntu sshd[1198]: Server listening on 0.0.0.0 port 22.
+Aug 24 06:41:48 ubuntu sshd[1198]: Server listening on :: port 22.
+Aug 24 06:41:49 ubuntu sshd[1198]: Received SIGHUP; restarting.
+Aug 24 06:41:49 ubuntu sshd[1198]: Server listening on 0.0.0.0 port 52113.
+Aug 24 06:41:49 ubuntu sshd[1198]: Server listening on :: port 52113.
+Aug 24 06:41:49 ubuntu sshd[1198]: Server listening on 0.0.0.0 port 22.
+Aug 24 06:41:49 ubuntu sshd[1198]: Server listening on :: port 22.
+Aug 24 06:42:22 ubuntu sshd[1198]: Received SIGHUP; restarting.
+Aug 24 06:42:22 ubuntu sshd[1198]: Server listening on 0.0.0.0 port 52113.
+Aug 24 06:42:22 ubuntu sshd[1198]: Server listening on :: port 52113.
+Aug 24 06:42:22 ubuntu sshd[1198]: Server listening on 0.0.0.0 port 22.
+Aug 24 06:42:22 ubuntu sshd[1198]: Server listening on :: port 22.
+Aug 24 06:42:22 ubuntu sshd[1198]: Received SIGHUP; restarting.
+Aug 24 06:42:22 ubuntu sshd[1198]: Server listening on 0.0.0.0 port 52113.
+Aug 24 06:42:22 ubuntu sshd[1198]: Server listening on :: port 52113.
+Aug 24 06:42:22 ubuntu sshd[1198]: Server listening on 0.0.0.0 port 22.
+Aug 24 06:42:22 ubuntu sshd[1198]: Server listening on :: port 22.
+Sep 20 08:00:28 ubuntu sshd[1198]: Received SIGHUP; restarting.
+Sep 20 08:00:28 ubuntu sshd[1198]: Server listening on 0.0.0.0 port 52113.
+Sep 20 08:00:28 ubuntu sshd[1198]: Server listening on :: port 52113.
+Sep 20 08:00:28 ubuntu sshd[1198]: Server listening on 0.0.0.0 port 22.
+Sep 20 08:00:28 ubuntu sshd[1198]: Server listening on :: port 22.
+Sep 20 08:00:30 ubuntu sshd[1198]: Received SIGHUP; restarting.
+Sep 20 08:00:30 ubuntu sshd[1198]: Server listening on 0.0.0.0 port 52113.
+Sep 20 08:00:30 ubuntu sshd[1198]: Server listening on :: port 52113.
+Sep 20 08:00:30 ubuntu sshd[1198]: Server listening on 0.0.0.0 port 22.
+Sep 20 08:00:30 ubuntu sshd[1198]: Server listening on :: port 22.
+Sep 20 08:13:11 ubuntu pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Sep 20 08:13:11 ubuntu pkexec: pam_systemd(polkit-1:session): Cannot create session: Already running in a session
+Sep 20 08:13:11 ubuntu pkexec[3997]: chenhui: Executing command [USER=root] [TTY=unknown] [CWD=/home/chenhui] [COMMAND=/usr/lib/update-notifier/package-system-locked]
+Sep 20 08:17:01 ubuntu CRON[4022]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 20 08:17:01 ubuntu CRON[4022]: pam_unix(cron:session): session closed for user root
+Sep 20 08:47:13 ubuntu su[4165]: Successful su for root by chenhui
+Sep 20 08:47:13 ubuntu su[4165]: + /dev/pts/4 chenhui:root
+Sep 20 08:47:13 ubuntu su[4165]: pam_unix(su:session): session opened for user root by (uid=1000)
+Sep 20 08:47:13 ubuntu su[4165]: pam_systemd(su:session): Cannot create session: Already running in a session
+Sep 20 08:58:10 ubuntu pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Sep 20 08:58:10 ubuntu pkexec: pam_systemd(polkit-1:session): Cannot create session: Already running in a session
+Sep 20 08:58:10 ubuntu pkexec[4464]: chenhui: Executing command [USER=root] [TTY=unknown] [CWD=/home/chenhui] [COMMAND=/usr/lib/update-notifier/package-system-locked]
+Sep 20 09:03:54 ubuntu su[4165]: pam_unix(su:session): session closed for user root
+Sep 20 09:13:02 ubuntu sudo:  chenhui : TTY=pts/4 ; PWD=/var/log ; USER=root ; COMMAND=/usr/bin/apt-get install vim
+Sep 20 09:13:02 ubuntu sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 20 09:13:10 ubuntu pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Sep 20 09:13:10 ubuntu pkexec: pam_systemd(polkit-1:session): Cannot create session: Already running in a session
+Sep 20 09:13:10 ubuntu pkexec[5969]: chenhui: Executing command [USER=root] [TTY=unknown] [CWD=/home/chenhui] [COMMAND=/usr/lib/update-notifier/package-system-locked]
+Sep 20 09:14:11 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Sep 20 09:15:08 ubuntu sudo:  chenhui : TTY=pts/4 ; PWD=/var/log ; USER=root ; COMMAND=/usr/bin/apt-get install pip
+Sep 20 09:15:08 ubuntu sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 20 09:15:08 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Sep 20 09:15:18 ubuntu sudo:  chenhui : TTY=pts/4 ; PWD=/var/log ; USER=root ; COMMAND=/usr/bin/apt-get install python3-pip
+Sep 20 09:15:18 ubuntu sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 20 09:16:09 ubuntu pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Sep 20 09:16:09 ubuntu pkexec: pam_systemd(polkit-1:session): Cannot create session: Already running in a session
+Sep 20 09:16:09 ubuntu pkexec[6571]: chenhui: Executing command [USER=root] [TTY=unknown] [CWD=/home/chenhui] [COMMAND=/usr/lib/update-notifier/package-system-locked]
+Sep 20 09:17:01 ubuntu CRON[6577]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 20 09:17:01 ubuntu CRON[6577]: pam_unix(cron:session): session closed for user root
+Sep 20 09:20:58 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Sep 20 09:22:10 ubuntu pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Sep 20 09:22:10 ubuntu pkexec: pam_systemd(polkit-1:session): Cannot create session: Already running in a session
+Sep 20 09:22:10 ubuntu pkexec[7267]: chenhui: Executing command [USER=root] [TTY=unknown] [CWD=/home/chenhui] [COMMAND=/usr/lib/update-notifier/package-system-locked]
+Sep 20 20:20:48 ubuntu sshd[1198]: Received SIGHUP; restarting.
+Sep 20 20:20:48 ubuntu sshd[1198]: Server listening on 0.0.0.0 port 52113.
+Sep 20 20:20:48 ubuntu sshd[1198]: Server listening on :: port 52113.
+Sep 20 20:20:48 ubuntu sshd[1198]: Server listening on 0.0.0.0 port 22.
+Sep 20 20:20:48 ubuntu sshd[1198]: Server listening on :: port 22.
+Sep 20 20:20:50 ubuntu sshd[1198]: Received SIGHUP; restarting.
+Sep 20 20:20:50 ubuntu sshd[1198]: Server listening on 0.0.0.0 port 52113.
+Sep 20 20:20:50 ubuntu sshd[1198]: Server listening on :: port 52113.
+Sep 20 20:20:50 ubuntu sshd[1198]: Server listening on 0.0.0.0 port 22.
+Sep 20 20:20:50 ubuntu sshd[1198]: Server listening on :: port 22.
+Sep 20 20:22:36 ubuntu sudo:  chenhui : TTY=pts/4 ; PWD=/home/chenhui ; USER=root ; COMMAND=/usr/bin/apt-get install vnc-server
+Sep 20 20:22:36 ubuntu sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 20 20:22:36 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Sep 20 20:22:42 ubuntu sudo:  chenhui : TTY=pts/4 ; PWD=/home/chenhui ; USER=root ; COMMAND=/usr/bin/apt-get install vnc
+Sep 20 20:22:42 ubuntu sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 20 20:22:42 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Sep 21 19:24:24 ubuntu sshd[1198]: Received SIGHUP; restarting.
+Sep 21 19:24:24 ubuntu sshd[1198]: Server listening on 0.0.0.0 port 52113.
+Sep 21 19:24:24 ubuntu sshd[1198]: Server listening on :: port 52113.
+Sep 21 19:24:24 ubuntu sshd[1198]: Server listening on 0.0.0.0 port 22.
+Sep 21 19:24:24 ubuntu sshd[1198]: Server listening on :: port 22.
+Sep 21 19:24:26 ubuntu sshd[1198]: Received SIGHUP; restarting.
+Sep 21 19:24:26 ubuntu sshd[1198]: Server listening on 0.0.0.0 port 52113.
+Sep 21 19:24:26 ubuntu sshd[1198]: Server listening on :: port 52113.
+Sep 21 19:24:26 ubuntu sshd[1198]: Server listening on 0.0.0.0 port 22.
+Sep 21 19:24:26 ubuntu sshd[1198]: Server listening on :: port 22.
+Sep 21 19:30:11 ubuntu pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Sep 21 19:30:11 ubuntu pkexec: pam_systemd(polkit-1:session): Cannot create session: Already running in a session
+Sep 21 19:30:11 ubuntu pkexec[9802]: chenhui: Executing command [USER=root] [TTY=unknown] [CWD=/home/chenhui] [COMMAND=/usr/lib/update-notifier/package-system-locked]
+Sep 21 19:30:36 ubuntu su[9813]: Successful su for root by chenhui
+Sep 21 19:30:36 ubuntu su[9813]: + /dev/pts/4 chenhui:root
+Sep 21 19:30:36 ubuntu su[9813]: pam_unix(su:session): session opened for user root by (uid=1000)
+Sep 21 19:30:36 ubuntu su[9813]: pam_systemd(su:session): Cannot create session: Already running in a session
+Sep 21 19:55:42 ubuntu su[9813]: pam_unix(su:session): session closed for user root
+Sep 21 20:59:23 ubuntu sshd[1198]: Received SIGHUP; restarting.
+Sep 21 20:59:23 ubuntu sshd[1198]: Server listening on 0.0.0.0 port 52113.
+Sep 21 20:59:23 ubuntu sshd[1198]: Server listening on :: port 52113.
+Sep 21 20:59:23 ubuntu sshd[1198]: Server listening on 0.0.0.0 port 22.
+Sep 21 20:59:23 ubuntu sshd[1198]: Server listening on :: port 22.
+Sep 21 20:59:26 ubuntu sshd[1198]: Received SIGHUP; restarting.
+Sep 21 20:59:26 ubuntu sshd[1198]: Server listening on 0.0.0.0 port 52113.
+Sep 21 20:59:26 ubuntu sshd[1198]: Server listening on :: port 52113.
+Sep 21 20:59:26 ubuntu sshd[1198]: Server listening on 0.0.0.0 port 22.
+Sep 21 20:59:26 ubuntu sshd[1198]: Server listening on :: port 22.
+Sep 21 20:59:56 ubuntu sshd[10245]: error: Received disconnect from 192.168.17.1 port 5519:14: Unable to authenticate using any of the configured authentication methods.  [preauth]
+Sep 21 20:59:56 ubuntu sshd[10245]: Disconnected from 192.168.17.1 port 5519 [preauth]
+Sep 21 21:00:02 ubuntu sshd[10247]: Accepted password for root from 192.168.17.1 port 5520 ssh2
+Sep 21 21:00:02 ubuntu sshd[10247]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Sep 21 21:00:02 ubuntu systemd: pam_unix(systemd-user:session): session opened for user root by (uid=0)
+Sep 21 21:00:02 ubuntu systemd-logind[1025]: New session 3 of user root.
+Sep 21 21:01:04 ubuntu sshd[10247]: pam_unix(sshd:session): session closed for user root
+Sep 21 21:01:04 ubuntu systemd-logind[1025]: Removed session 3.
+Sep 21 21:01:05 ubuntu sshd[10371]: Accepted password for root from 192.168.17.1 port 5522 ssh2
+Sep 21 21:01:05 ubuntu sshd[10371]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Sep 21 21:01:05 ubuntu systemd-logind[1025]: New session 4 of user root.
+Sep 21 21:01:05 ubuntu systemd: pam_unix(systemd-user:session): session opened for user root by (uid=0)
+Sep 21 21:17:03 ubuntu CRON[10526]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 21 21:17:03 ubuntu CRON[10526]: pam_unix(cron:session): session closed for user root
+Sep 21 21:18:06 ubuntu su[10533]: Successful su for root by chenhui
+Sep 21 21:18:06 ubuntu su[10533]: + /dev/pts/4 chenhui:root
+Sep 21 21:18:06 ubuntu su[10533]: pam_unix(su:session): session opened for user root by (uid=1000)
+Sep 21 21:18:06 ubuntu su[10533]: pam_systemd(su:session): Cannot create session: Already running in a session
+Sep 21 21:18:31 ubuntu sshd[10547]: Accepted password for chenhui from 192.168.17.1 port 5589 ssh2
+Sep 21 21:18:31 ubuntu sshd[10547]: pam_unix(sshd:session): session opened for user chenhui by (uid=0)
+Sep 21 21:18:31 ubuntu systemd-logind[1025]: New session 6 of user chenhui.
